@@ -1,12 +1,34 @@
 from pgl import *
 
+
 #1a
 def create_histogram_array(data:list[int])->list[int]:
     pass
+    histogram = [PI_DIGITS.count(digit) for digit in range(10)]
+    print(histogram)
+    new_list = []
+    '''[new_list.append(histogram[i] * "*") for i in histogram]
+    print(new_list)'''
+    for i in range(10):
+        new_list.append(histogram[i]* '*')
+        print(new_list[i])
+    
+
+
 
 #1b
 def print_histogram(hist:list[int]) -> None:
-    pass
+    '''pass
+    new_list = [""]
+    [new_list.append(hist[i] * "*") for i in hist]
+    print(new_list)'''
+
+
+
+
+
+
+
 
 #1c
 def graph_histogram(hist:list[int], width:int, height:int) -> None:
