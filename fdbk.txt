@@ -1,6 +1,7 @@
-1c does not make an calculations and does not fill the provide graphics window. It additionally ignores provided height and width.
+Early grading, but...
 
--2.5
+2 not done. -2.5
 
 7.5/10
 
+Will recheck @ midnight.
