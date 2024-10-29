@@ -1,0 +1,6 @@
+1c does not make an calculations and does not fill the provide graphics window. It additionally ignores provided height and width.
+
+-2.5
+
+7.5/10
+
